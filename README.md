@@ -1,5 +1,4 @@
 # calculator
-A simple calculator to learn how to code
 
-
-# estoy dentro del github
+# 24/07/2026
+Acabo de reducir el HTML, reducinedo el Script, agregue la carpeta Script para rstructurarlo mejor .
